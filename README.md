@@ -8,3 +8,7 @@ Pear Picker (legally distinct from cookie clicker) is an additive, casual clicke
 Did you know pears don't ripen on the tree? Now you do—and reading that fact just doubled your Pear-Per-Second harvest.
 
 It combines the addicting loop of incremental gaming with bite-sized trivia collectible cards. Players harvest, unlock weird knowledge, upgrade their orchard, and show off their rare fact collections. It’s lighthearted, wildly simple, and endlessly fresh—the ultimate micro-distraction for the internet.
+
+"That's good, I like that, that's good." - Charlie.
+
+"Good enough for me." - Myself
